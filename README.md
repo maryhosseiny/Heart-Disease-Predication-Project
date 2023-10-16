@@ -1,4 +1,4 @@
-# Heart-DIsease-Predication
+# Heart-Disease-Predication
 
 ## Introduction
 Heart failure is a common form of cardiovascular heart disease that can lead to numerous complications, often fatal. The ability to predict, with reasonable accuracy, whether a patient is experiencing an undiagnosed heart disease is an extremely volatile procedure in modern healthcare. The objective of this project is to use a classification model and predict whether or not an individual currently has heart disease based on various health and physical attributes.
